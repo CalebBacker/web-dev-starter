@@ -27,3 +27,6 @@ To run the tests for the project, run the following command:
 ```bash
 npm test
 ```
+About: this is a simple web app including some student info, an addition calculator, a random joke button, and a random list of jokes button.
+
+Instructions: Info on how to get started with the repository is provided above, when running unit tests make sure to run npm install sinon if you don't have it already. You can see the website by running the index.html with live preview.
